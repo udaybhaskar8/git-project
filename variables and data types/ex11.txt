@@ -1,0 +1,2 @@
+A variable name must start with a letter or the underscore character.
+and can not start with the numbers and special characters.
